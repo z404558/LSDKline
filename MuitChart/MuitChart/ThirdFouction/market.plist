@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>zss</key>
+		<string>中银国际证券</string>
+		<key>zsqsr</key>
+		<string>2015-11-17</string>
+		<key>zscb</key>
+		<real>6</real>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>中泰证券</string>
+		<key>sex</key>
+		<string>2015-11-17</string>
+		<key>age</key>
+		<real>6</real>
+	</dict>
+</array>
+</plist>
